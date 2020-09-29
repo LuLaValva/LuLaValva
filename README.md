@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, and welcome to my GitHub
+
+My name is Lucas LaValva, and I am currently student in New Jersey who is studying Math and Computer Science. My current overarching objective is to equip myself with the tools required to tackle the vast wilderness of the unknown, and bring as many others along with the ride as possible. As for how I am going about attaining this goal, here are some of my shorter term projects:
+
+- Teaching Math and Computer Science to children (K-12) in after school programs through **Mindbytes**, a South Jersey company that aims to enrich children with fun, engaging work.
+- Researching with Rowan University's Hieu Duc Nguyen in our study about modifying the matrices which are applied to Error-Correcting-Output-Code **(ECOC) Machine Learning** algorithms.
+- Working for a Rowan-BMS collaboration team in a group led by Serhiy Hnatyshyn, where we are applying **Natural Language Processing** methods to Chemical Patents in order to simplify the work of those in the field of Industrial Drug Discovery.
 
 <!--
 **LuLaValva/LuLaValva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
