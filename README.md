@@ -1,4 +1,4 @@
-# Hello, and welcome to my GitHub!
+## Hello, and welcome to my GitHub!
 
 My name is Lucas LaValva, and I am currently student in New Jersey who is studying Computer Science, Mathematics, and a little bit of Sociology. My current overarching objective is to equip myself with the tools required to tackle the vast wilderness of the unknown, and bring as many along for the ride with me as humanly possible. As for how aim to attain this goal, here are some of my shorter term projects:
 
@@ -6,3 +6,16 @@ My name is Lucas LaValva, and I am currently student in New Jersey who is studyi
 - Researching with Rowan University's Hieu Duc Nguyen in our study about modifying the matrices which are applied to Error-Correcting-Output-Code **(ECOC) Machine Learning** algorithms.
 - Working for a Rowan-BMS collaboration team in a group led by Serhiy Hnatyshyn, where we are applying **Natural Language Processing** methods to Chemical Patents in order to simplify the work of those in the field of Industrial Drug Discovery.
 - Learning anything I can get my hands on, be it via my position as a student or from my involvement in **Personal Projects** (many of which are found *right here* on my GitHub).
+
+#
+
+### My Domain of Confidence
+| Proficient Languages / Frameworks | One Week from Proficiency | Proficient Software |
+| :-------------------------------: | :-----------------------: | :-----------------: |
+| C                                 | C++                       | Blender             |
+| Python                            | React                     | AutoDesk Inventor   |
+| Java                              | Angular                   | iMovie              |
+| JavaScript / TypeScript           | MatLab                    | Blender             |
+| Bash / Shell Scripting            | Assembly (MIPS)           | Google Suite        |
+| HTML / CSS                        | Mathematica               | Microsoft Office    |
+| LaTeX                             | Befunge                   | Blender             |
