@@ -1,3 +1,3 @@
-## Hello, and welcome to my GitHub!
+###### Ah... you found me.
 
 I'm Luke LaValva, and I make things somtimes.
